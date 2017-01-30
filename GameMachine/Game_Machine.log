@@ -1,0 +1,165 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2017.1.28)  30 JAN 2017 16:18
+entering extended mode
+**Game_Machine.tex
+
+(D:\Workspace\Documentations\DeveloperDocumentation\GameMachine\Game_Machine.te
+x
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/09/14 v0.05b Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\Workspace\Documentations\DeveloperDocumentation\GameMachine\Game_Machine.au
+x)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+\GPT@outputbox=\box27
+
+(D:\Workspace\Documentations\DeveloperDocumentation\GameMachine\Game_Machine.to
+c
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
+\tf@toc=\write3
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<banner.png, id=7, 275.0275pt x 517.935pt>
+File: banner.png Graphic file (type png)
+ <use banner.png> [1 <D:/Workspace/Documentations/DeveloperDocumentation/GameMa
+chine/banner.png>]
+<MissionRootNode.png, id=14, 1927.2pt x 1084.05pt>
+File: MissionRootNode.png Graphic file (type png)
+ <use MissionRootNode.png>
+[1 <D:/Workspace/Documentations/DeveloperDocumentation/GameMachine/MissionRootN
+ode.png>] <ObjectiveNode.png, id=20, 1927.2pt x 1084.05pt>
+File: ObjectiveNode.png Graphic file (type png)
+
+<use ObjectiveNode.png> <MultiObjectiveNode.png, id=21, 1927.2pt x 1084.05pt>
+File: MultiObjectiveNode.png Graphic file (type png)
+
+<use MultiObjectiveNode.png>
+<BranchedObjectiveNode.png, id=22, 1927.2pt x 1084.05pt>
+File: BranchedObjectiveNode.png Graphic file (type png)
+
+<use BranchedObjectiveNode.png> [2 <D:/Workspace/Documentations/DeveloperDocume
+ntation/GameMachine/ObjectiveNode.png> <D:/Workspace/Documentations/DeveloperDo
+cumentation/GameMachine/MultiObjectiveNode.png>] [3 <D:/Workspace/Documentation
+s/DeveloperDocumentation/GameMachine/BranchedObjectiveNode.png>]
+(D:\Workspace\Documentations\DeveloperDocumentation\GameMachine\Game_Machine.au
+x) ) 
+Here is how much of TeX's memory you used:
+ 1481 strings out of 494019
+ 19004 string characters out of 3143882
+ 73632 words of memory out of 3000000
+ 4799 multiletter control sequences out of 15000+200000
+ 8540 words of font info for 30 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 25i,5n,35p,208b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Game_Machine.pdf (5 pages, 595139 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
