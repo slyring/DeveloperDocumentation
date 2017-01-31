@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2017.1.28)  30 JAN 2017 16:19
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2017.1.28)  31 JAN 2017 15:44
 entering extended mode
 **Game_Machine.tex
 
@@ -107,7 +107,12 @@ LaTeX Font Info:    ... okay on input line 6.
 \everyMPtoPDFconversion=\toks16
 )
 \GPT@outputbox=\box27
+ <banner.png, id=1, 275.0275pt x 517.935pt>
+File: banner.png Graphic file (type png)
+ <use banner.png> [1
 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Workspace/Documentatio
+ns/DeveloperDocumentation/GameMachine/banner.png>]
 (D:\Workspace\Documentations\DeveloperDocumentation\GameMachine\Game_Machine.to
 c
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -118,48 +123,102 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
 )
 \tf@toc=\write3
- [1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<banner.png, id=7, 275.0275pt x 517.935pt>
-File: banner.png Graphic file (type png)
- <use banner.png> [1 <D:/Workspace/Documentations/DeveloperDocumentation/GameMa
-chine/banner.png>]
-<MissionRootNode.png, id=14, 1927.2pt x 1084.05pt>
+ [1] <MissionRootNode.png, id=14, 1444.64719pt x 782.17218pt>
 File: MissionRootNode.png Graphic file (type png)
- <use MissionRootNode.png>
-[1 <D:/Workspace/Documentations/DeveloperDocumentation/GameMachine/MissionRootN
-ode.png>] <ObjectiveNode.png, id=20, 1927.2pt x 1084.05pt>
-File: ObjectiveNode.png Graphic file (type png)
 
-<use ObjectiveNode.png> <MultiObjectiveNode.png, id=21, 1927.2pt x 1084.05pt>
+<use MissionRootNode.png>
+<ObjectiveNode.png, id=15, 1443.14156pt x 782.17218pt>
+File: ObjectiveNode.png Graphic file (type png)
+ <use ObjectiveNode.png>
+[2 <D:/Workspace/Documentations/DeveloperDocumentation/GameMachine/MissionRootN
+ode.png>] <MultiObjectiveNode.png, id=21, 1443.14156pt x 783.67781pt>
 File: MultiObjectiveNode.png Graphic file (type png)
 
 <use MultiObjectiveNode.png>
-<BranchedObjectiveNode.png, id=22, 1927.2pt x 1084.05pt>
+<BranchedObjectiveNode.png, id=22, 1444.64719pt x 780.66656pt>
 File: BranchedObjectiveNode.png Graphic file (type png)
 
-<use BranchedObjectiveNode.png> [2 <D:/Workspace/Documentations/DeveloperDocume
+<use BranchedObjectiveNode.png> [3 <D:/Workspace/Documentations/DeveloperDocume
 ntation/GameMachine/ObjectiveNode.png> <D:/Workspace/Documentations/DeveloperDo
-cumentation/GameMachine/MultiObjectiveNode.png>] [3 <D:/Workspace/Documentation
-s/DeveloperDocumentation/GameMachine/BranchedObjectiveNode.png>]
+cumentation/GameMachine/MultiObjectiveNode.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[4 <D:/Workspace/Documentations/DeveloperDocumentation/GameMachine/BranchedObje
+ctiveNode.png>]
+Overfull \hbox (16.75546pt too wide) in paragraph at lines 90--103
+ [] 
+ []
+
+
+Overfull \hbox (36.40388pt too wide) in paragraph at lines 107--116
+ [] 
+ []
+
+[5]
+Overfull \hbox (65.54384pt too wide) in paragraph at lines 122--146
+ [] 
+ []
+
+
+Overfull \hbox (3.34311pt too wide) in paragraph at lines 150--158
+ [] 
+ []
+
+[6]
+Overfull \hbox (16.62074pt too wide) in paragraph at lines 163--171
+ [] 
+ []
+
+
+Overfull \hbox (1.4459pt too wide) in paragraph at lines 175--182
+ [] 
+ []
+
+[7]
+Overfull \hbox (65.54384pt too wide) in paragraph at lines 188--212
+ [] 
+ []
+
+
+Overfull \hbox (3.34311pt too wide) in paragraph at lines 216--224
+ [] 
+ []
+
+[8]
+Overfull \hbox (16.62074pt too wide) in paragraph at lines 229--237
+ [] 
+ []
+
+
+Overfull \hbox (1.4459pt too wide) in paragraph at lines 241--248
+ [] 
+ []
+
+[9]
 (D:\Workspace\Documentations\DeveloperDocumentation\GameMachine\Game_Machine.au
 x) ) 
 Here is how much of TeX's memory you used:
  1481 strings out of 494019
  19004 string characters out of 3143882
- 73632 words of memory out of 3000000
+ 77632 words of memory out of 3000000
  4799 multiletter control sequences out of 15000+200000
  8540 words of font info for 30 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,5n,35p,208b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,6n,35p,208b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Game_Machine.pdf (5 pages, 595139 bytes).
+Output written on Game_Machine.pdf (10 pages, 550787 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

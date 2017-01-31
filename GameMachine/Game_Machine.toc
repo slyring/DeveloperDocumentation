@@ -1,10 +1,18 @@
-\contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {2}General description}{1}
-\contentsline {section}{\numberline {3}Specific requirements}{1}
-\contentsline {section}{\numberline {4}Overview}{1}
-\contentsline {section}{\numberline {5}How to use}{1}
-\contentsline {subsection}{\numberline {5.1}overview}{1}
-\contentsline {subsection}{\numberline {5.2}MissionGraph}{1}
-\contentsline {subsubsection}{\numberline {5.2.1}MISSION ROOT NODE}{3}
-\contentsline {subsection}{\numberline {5.3}DialogueGraph}{3}
-\contentsline {section}{\numberline {6}Example}{3}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}General description}{2}
+\contentsline {section}{\numberline {3}Specific requirements}{2}
+\contentsline {section}{\numberline {4}Overview}{2}
+\contentsline {section}{\numberline {5}How to use}{2}
+\contentsline {subsection}{\numberline {5.1}overview}{2}
+\contentsline {subsection}{\numberline {5.2}Mission Graph}{2}
+\contentsline {subsubsection}{\numberline {5.2.1}MISSION ROOT NODE}{4}
+\contentsline {subsubsection}{\numberline {5.2.2}OBJECTIVE NODE}{5}
+\contentsline {subsubsection}{\numberline {5.2.3}MULTI OBJECTIVE NODE}{6}
+\contentsline {subsubsection}{\numberline {5.2.4}BRANCHED OBJECTIVE NODE}{8}
+\contentsline {subsection}{\numberline {5.3}Dialogue Graph}{9}
+\contentsline {subsubsection}{\numberline {5.3.1}DIALOGUE ROOT NODE}{9}
+\contentsline {subsubsection}{\numberline {5.3.2}DIALOGUE NODE}{9}
+\contentsline {subsubsection}{\numberline {5.3.3}BRANCH NODE}{9}
+\contentsline {subsubsection}{\numberline {5.3.4}END NODE}{9}
+\contentsline {section}{\numberline {6}Examples}{9}
+\contentsline {section}{\numberline {7}Appendix}{9}
