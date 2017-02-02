@@ -247,11 +247,81 @@ We have designed this plugin for designing mission.
 	  	\end{tabular}
 	  \end{center}
 	  \subsection{Dialogue Graph}
-	  Now in Dialogue graph we are going to design our dialogue's as per the mission graph.
+	  Now in Dialogue graph we are going to design our dialogue's as per the mission graph.In Dialogue graph there are four node's
+	  Dialogue Root Node, Dialogue Node, Branch Node and End Node.
+	  \begin{center}
+	  \includegraphics[scale=0.2]{DiaogueRootNode.png}\\
+	  Dialogue Root Node\\
+	  ---------------------------------
+	  \end{center}
+	    \begin{center}
+	  \includegraphics[scale=0.2]{DialogueNode.png}\\
+	  Dialogue Node\\
+	  ---------------------------------
+	  \end{center}
+	    \begin{center}
+	  \includegraphics[scale=0.2]{DialogueBranchNode.png}\\
+	  Dialogue Branch Node\\
+	  ---------------------------------
+	  \end{center}
+	    \begin{center}
+	  \includegraphics[scale=0.2]{DialogueEndNode.png}\\
+	  Dialogue End Node\\
+	  ---------------------------------
+	  \end{center}
 	  \subsubsection{DIALOGUE ROOT NODE}
+	  Root node is the node from where our dialogue graph will going to initialized.Which have very few properties.\\
+	  Detail Panel:- \\
+	  \begin{center}
+	  	\begin{tabular}{|c|c|}\hline
+	  		Properties Name(Section) & Properties Description\\\hline\hline 
+	  		Show Color Spectrum(Node Info) & show the nodes 					color\\\hline
+			Short Name(Node Info) & Name of the node\\\hline
+			IsBranch(Node Info) & if node is branched\\\hline
+	  	\end{tabular}
+	  \end{center}
 	  \subsubsection{DIALOGUE NODE}
+	  This is the node where we going to write dialogue with some properties.\\
+	  Detail Panel:-\\
+	  \begin{center}
+	  	\begin{tabular}{|c|c|}\hline
+	  	Properties Name(Section) & Properties Description\\\hline\hline
+	  	Title(DialogueNode) & Title of the dialogue\\\hline
+	  	Speaker(DialogueNode) & Speaker of the dialogue\\\hline
+	  	Dialogues(DialogueData) & It is an array and each element of an array contains 3 members\\
+	  	& ID,Dialogue Text, Audio\\\hline 
+	  		  		Show Color Spectrum(Node Info) & shows the nodes color\\\hline
+			Short Name(Node Info) & Name of the node\\\hline
+			IsBranch(Node Info) & if node is branched\\\hline
+	  	\end{tabular}
+	  \end{center}	   
 	  \subsubsection{BRANCH NODE}
+	  Branch node is similar as dialogue node but in branch it can contain multiple dialogues and can be executed in an any sequence.\\
+	  Detail Panel:-\\
+	  \begin{center}
+	  \begin{tabular}{|c|c|}\hline
+	  	Properties Name(Section) & Properties Description\\\hline\hline
+	  	Title(Dialogue Node) &Title of the branch dialogue node\\\hline
+	  	Speaker(Dialogue Node) & Speaker of the dialogue\\\hline
+	  	Dialogue(DialogueData) & Dialogue is an array here in which every element\\
+	  	& having 3 members(ID,Dialogue Text, Audio) \\\hline
+	  	Show Color Spectrum(Node Info) & show the nodes 					color\\\hline
+			Short Name(Node Info) & Name of the node\\\hline
+			IsBranch(Node Info) & if node is branched\\\hline
+	  
+	  \end{tabular}
+	  \end{center}
 	  \subsubsection{END NODE}
+	  End node is the return node which returns the id of the dialogue node on which the end node is connected to.
+		\begin{center}
+			\begin{tabular}{|c|c|}\hline
+				Properties Name(Section) & Properties Details\\\hline
+				ID(DialogueReturnNode) & it return the id \\\hline
+				 	Show Color Spectrum(Node Info) & show the nodes 					color\\\hline
+			Short Name(Node Info) & Name of the node\\\hline
+			IsBranch(Node Info) & if node is branched\\\hline
+			\end{tabular}
+		\end{center}			  
 	  \section{Examples}
 	  \section{Appendix}
 \end{document}
